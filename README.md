@@ -1,8 +1,11 @@
 # Trabalho de Programação Imperativa — Java
 
 **Disciplina:** Programação Imperativa — 2026.2
+
 **Professor:** Márcio Bueno
+
 **Aluna:** Vanessa Rafaella
+
 **Instituição:** UNICAP — Sistemas para Internet
 
 ---
