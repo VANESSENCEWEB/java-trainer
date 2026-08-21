@@ -1,6 +1,13 @@
 # Trabalho de Programação Imperativa — Java
 
-Repositório com as atividades da disciplina de Programação Imperativa (Java), UNICAP.
+**Disciplina:** Programação Imperativa — 2026.2
+**Professor:** Márcio Bueno
+**Aluna:** Vanessa Rafaella
+**Instituição:** UNICAP — Sistemas para Internet
+
+---
+
+Repositório com as atividades da disciplina de Programação Imperativa (Java).
 
 Cada pasta contém um programa independente, com seu próprio arquivo `.java`.
 
